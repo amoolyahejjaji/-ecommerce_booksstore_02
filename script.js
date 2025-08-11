@@ -89,3 +89,6 @@ books.forEach(book => {
   container.appendChild(div);
 });
 >>>>>>> books-display
+window.onload = function() {
+  console.log("Welcome to the E-Commerce Bookstore!");
+};
